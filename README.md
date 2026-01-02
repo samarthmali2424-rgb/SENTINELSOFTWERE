@@ -1,2 +1,3 @@
 # SENTINELSOFTWERE
-CREATED BY "SR" GROUPS
+CREATED BY "SR" ग्रुप्स 
+मिनी सर्वर
